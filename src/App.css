@@ -1,0 +1,12 @@
+.main-container {
+  background-color: white;
+  padding-bottom: 1rem;
+}
+
+.header {
+  background-color: rgb(1, 8, 6);
+  padding: 1px;
+  padding-left: 16px;
+  color: white;
+}
+
